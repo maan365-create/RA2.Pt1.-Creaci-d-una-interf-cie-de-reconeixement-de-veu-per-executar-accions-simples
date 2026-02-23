@@ -1,0 +1,1 @@
+# RA2.Pt1.-Creaci-d-una-interf-cie-de-reconeixement-de-veu-per-executar-accions-simples
